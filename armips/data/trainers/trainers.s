@@ -1882,7 +1882,7 @@ trainerdata 50, "Abe"
         ivs 30
         abilityslot 0
         level 9
-        pokemon SPECIES_SPEAROW
+        pokemon SPECIES_FARFETCHD
         ballseal 0
     endparty
 
@@ -2050,7 +2050,7 @@ trainerdata 56, "Gordon"
         ivs 0
         abilityslot 32
         level 10
-        pokemon SPECIES_RATTATA
+        pokemon SPECIES_BELLSPROUT
         ballseal 11
     endparty
 
