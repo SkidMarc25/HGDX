@@ -31,8 +31,8 @@ trainerdata 0, "-"
     endparty
 
 trainerdata 1, "Silver"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_RIVAL
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET
+    trainerclass CLASS_RIVAL
     nummons 3
     item ITEM_NONE
     item ITEM_NONE
@@ -44,25 +44,55 @@ trainerdata 1, "Silver"
 
     party 1
         // mon 0
-        ivs 30
-        abilityslot 0
-        level 14
-        pokemon SPECIES_GASTLY
-        ballseal 0
-
-        // mon 1
-        ivs 30
+        ivs 50
         abilityslot 0
         level 16
+        pokemon SPECIES_GASTLY
+        item ITEM_NONE
+        move MOVE_SMOG
+        move MOVE_NIGHT_SHADE
+        move MOVE_SPITE
+        move MOVE_FLASH
+        ability ABILITY_LEVITATE
+        ball ITEM_POKE_BALL
+        setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
+        setevs 40, 0, 40, 0, 0, 40
+        nature NATURE_SERIOUS
+		ballseal 0
+
+        // mon 1
+        ivs 50
+        abilityslot 0
+        level 17
         pokemon SPECIES_ZUBAT
-        ballseal 0
+        item ITEM_NONE
+        move MOVE_WING_ATTACK
+        move MOVE_SUPERSONIC
+        move MOVE_BITE
+        move MOVE_SILVER_WIND
+        ability ABILITY_INNER_FOCUS
+        ball ITEM_POKE_BALL
+        setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
+        setevs 40, 0, 40, 0, 0, 40
+        nature NATURE_SERIOUS
+		ballseal 0
 
         // mon 2
-        ivs 30
+        ivs 50
         abilityslot 0
-        level 18
+        level 19
         pokemon SPECIES_BAYLEEF
-        ballseal 0
+        item ITEM_SITRUS_BERRY
+        move MOVE_REFLECT
+        move MOVE_POISON_POWDER
+        move MOVE_CUT
+        move MOVE_LEAFAGE
+        ability ABILITY_OVERGROW
+        ball ITEM_POKE_BALL
+        setivs 31, 31, 31, 15, 31, 31 // hp, atk, def, spd, spatk, spdef
+        setevs 40, 40, 40, 0, 40, 40
+        nature NATURE_SERIOUS
+		ballseal 0
     endparty
 
 trainerdata 2, "Silver"
