@@ -157,6 +157,41 @@ You will still have to `make clean` and `make clean_code` manually when changing
 [MONEXPAND]: https://github.com/BluRosie/hgss-monexpansion
 [CFRU]: https://github.com/Skeli789/Complete-Fire-Red-Upgrade
 [G5T]: https://github.com/CodenamePU/Gen5Tools
+
+##NEW THINGS
+
+##Trainer Classes
+Tourist (Male)
+Tourist (Female)
+Sightseer (Male)
+Sightseer (Female)
+Rising Star/Jr Trainer (Male)
+Rising Star/Jr Trainer (Female)
+Veeran (Female)
+Gambler
+Punk
+Delinquent
+Bug Maniac
+
+##Items
+Brick Piece (Sellable Item)
+Berzerk Gene
+Fairy Feather (Type Booster)
+Pink Bow (Type Booster)
+Polkadot Bow (Type Booster)
+Gold Leaf (Tradable Item?)
+Silver Leaf (Tradable Item?)
+Strange Box (Tradable Item?)
+Gorgeous Box (Tradable Item?)
+Crystal Apricorn (Event Item)
+Origin Amber (Event Item)
+Link Stone (Evolution Stone)
+Ace Wing (Replaces Sharp Beak)
+
+##Move Changes
+Magnet Bomb - Special
+Egg Bomb - Special
+
 [ARM9]: https://pokehacking.com/tutorials/ramexpansion/
 [diamond]:https://github.com/pret/pokediamond
 [TEMPLATE]: https://github.com/Bubble791/Pokemon-Heart-Gold-Engine
