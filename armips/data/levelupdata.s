@@ -2706,6 +2706,7 @@ levelup SPECIES_QUILAVA
 
 
 levelup SPECIES_TYPHLOSION
+    learnset MOVE_FLAME_BURST, 0
     learnset MOVE_TACKLE, 1
     learnset MOVE_LEER, 1
     learnset MOVE_SMOKESCREEN, 6
@@ -2761,6 +2762,7 @@ levelup SPECIES_CROCONAW
 
 
 levelup SPECIES_FERALIGATR
+    learnset MOVE_AQUA_TAIL, 0
     learnset MOVE_SCRATCH, 1
     learnset MOVE_LEER, 1
     learnset MOVE_WATER_GUN, 6
@@ -2773,7 +2775,7 @@ levelup SPECIES_FERALIGATR
     learnset MOVE_CRUNCH, 44
     learnset MOVE_SCREECH, 46
     learnset MOVE_THRASH, 51
-    learnset MOVE_AQUA_TAIL, 56
+    learnset MOVE_WAVE_CRASH, 56
     learnset MOVE_SUPERPOWER, 60
     learnset MOVE_HYDRO_PUMP, 64
     terminatelearnset
@@ -4013,6 +4015,7 @@ levelup SPECIES_PHANPY
     learnset MOVE_CHARM, 33
     learnset MOVE_PLAY_ROUGH, 37
     learnset MOVE_DOUBLE_EDGE, 42
+    learnset MOVE_SLACK_OFF, 50
     terminatelearnset
 
 
@@ -4030,6 +4033,7 @@ levelup SPECIES_DONPHAN
     learnset MOVE_KNOCK_OFF, 41
     learnset MOVE_DOUBLE_EDGE, 45
     learnset MOVE_EARTHQUAKE, 50
+    learnset MOVE_SLACK_OFF, 55
     terminatelearnset
 
 
