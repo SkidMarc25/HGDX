@@ -109,7 +109,7 @@ movedata MOVE_MEGA_PUNCH, "Mega Punch"
 movedata MOVE_PAY_DAY, "Pay Day"
     battleeffect MOVE_EFFECT_INCREASE_PRIZE_MONEY
     pss SPLIT_PHYSICAL
-    basepower 40
+    basepower 60
     type TYPE_NORMAL
     accuracy 100
     pp 20
@@ -669,7 +669,7 @@ movedata MOVE_POISON_STING, "Poison Sting"
 movedata MOVE_TWINEEDLE, "Twineedle"
     battleeffect MOVE_EFFECT_POISON_MULTI_HIT
     pss SPLIT_PHYSICAL
-    basepower 25
+    basepower 30
     type TYPE_BUG
     accuracy 100
     pp 20
@@ -993,7 +993,7 @@ movedata MOVE_BUBBLE_BEAM, "Bubble Beam"
     type TYPE_WATER
     accuracy 100
     pp 20
-    effectchance 10
+    effectchance 80
     target RANGE_SINGLE_TARGET
     priority 0
     flags FLAG_MIRROR_MOVE | FLAG_PROTECT
@@ -1069,9 +1069,9 @@ movedata MOVE_DRILL_PECK, "Drill Peck"
 movedata MOVE_SUBMISSION, "Submission"
     battleeffect MOVE_EFFECT_RECOIL_QUARTER
     pss SPLIT_PHYSICAL
-    basepower 80
+    basepower 110
     type TYPE_FIGHTING
-    accuracy 80
+    accuracy 90
     pp 20
     effectchance 0
     target RANGE_SINGLE_TARGET
@@ -1948,10 +1948,10 @@ movedata MOVE_SELF_DESTRUCT, "Self-Destruct"
 
 movedata MOVE_EGG_BOMB, "Egg Bomb"
     battleeffect MOVE_EFFECT_HIT
-    pss SPLIT_PHYSICAL
+    pss SPLIT_SPECIAL
     basepower 100
     type TYPE_NORMAL
-    accuracy 75
+    accuracy 90
     pp 10
     effectchance 0
     target RANGE_SINGLE_TARGET
@@ -1983,9 +1983,9 @@ movedata MOVE_SMOG, "Smog"
     pss SPLIT_SPECIAL
     basepower 30
     type TYPE_POISON
-    accuracy 70
+    accuracy 85
     pp 20
-    effectchance 40
+    effectchance 35
     target RANGE_SINGLE_TARGET
     priority 0
     flags FLAG_MIRROR_MOVE | FLAG_PROTECT
@@ -2015,7 +2015,7 @@ movedata MOVE_BONE_CLUB, "Bone Club"
     pss SPLIT_PHYSICAL
     basepower 65
     type TYPE_GROUND
-    accuracy 85
+    accuracy 90
     pp 20
     effectchance 10
     target RANGE_SINGLE_TARGET
@@ -2349,11 +2349,11 @@ movedata MOVE_BUBBLE, "Bubble"
 movedata MOVE_DIZZY_PUNCH, "Dizzy Punch"
     battleeffect MOVE_EFFECT_CONFUSE_HIT
     pss SPLIT_PHYSICAL
-    basepower 70
+    basepower 80
     type TYPE_NORMAL
     accuracy 100
     pp 10
-    effectchance 20
+    effectchance 50
     target RANGE_SINGLE_TARGET
     priority 0
     flags FLAG_MIRROR_MOVE | FLAG_PROTECT | FLAG_CONTACT
@@ -2685,7 +2685,7 @@ movedata MOVE_SKETCH, "Sketch"
 movedata MOVE_TRIPLE_KICK, "Triple Kick"
     battleeffect MOVE_EFFECT_HIT_THREE_TIMES_INCREMENT_BASE_POWER_10
     pss SPLIT_PHYSICAL
-    basepower 10
+    basepower 20
     type TYPE_FIGHTING
     accuracy 90
     pp 10
@@ -2781,7 +2781,7 @@ movedata MOVE_FLAME_WHEEL, "Flame Wheel"
 movedata MOVE_SNORE, "Snore"
     battleeffect MOVE_EFFECT_DAMAGE_WHILE_ASLEEP
     pss SPLIT_SPECIAL
-    basepower 50
+    basepower 90
     type TYPE_NORMAL
     accuracy 100
     pp 15
@@ -3053,7 +3053,7 @@ movedata MOVE_MUD_SLAP, "Mud-Slap"
 movedata MOVE_OCTAZOOKA, "Octazooka"
     battleeffect MOVE_EFFECT_LOWER_ACCURACY_HIT
     pss SPLIT_SPECIAL
-    basepower 65
+    basepower 85
     type TYPE_WATER
     accuracy 85
     pp 10
@@ -3581,7 +3581,7 @@ movedata MOVE_MAGNITUDE, "Magnitude"
 movedata MOVE_DYNAMIC_PUNCH, "Dynamic Punch"
     battleeffect MOVE_EFFECT_CONFUSE_HIT
     pss SPLIT_PHYSICAL
-    basepower 100
+    basepower 120
     type TYPE_FIGHTING
     accuracy 50
     pp 5
@@ -4001,7 +4001,7 @@ movedata MOVE_ROCK_SMASH, "Rock Smash"
     type TYPE_FIGHTING
     accuracy 100
     pp 15
-    effectchance 50
+    effectchance 70
     target RANGE_SINGLE_TARGET
     priority 0
     flags FLAG_MIRROR_MOVE | FLAG_PROTECT | FLAG_CONTACT
@@ -4893,7 +4893,7 @@ movedata MOVE_HYPER_VOICE, "Hyper Voice"
 movedata MOVE_POISON_FANG, "Poison Fang"
     battleeffect MOVE_EFFECT_BADLY_POISON_HIT
     pss SPLIT_PHYSICAL
-    basepower 50
+    basepower 65
     type TYPE_POISON
     accuracy 100
     pp 15
@@ -6829,7 +6829,7 @@ movedata MOVE_SHADOW_SNEAK, "Shadow Sneak"
 movedata MOVE_MUD_BOMB, "Mud Bomb"
     battleeffect MOVE_EFFECT_LOWER_ACCURACY_HIT
     pss SPLIT_SPECIAL
-    basepower 65
+    basepower 75
     type TYPE_GROUND
     accuracy 85
     pp 10
@@ -6910,7 +6910,7 @@ movedata MOVE_ROCK_CLIMB, "Rock Climb"
     battleeffect MOVE_EFFECT_CONFUSE_HIT
     pss SPLIT_PHYSICAL
     basepower 90
-    type TYPE_NORMAL
+    type TYPE_ROCK
     accuracy 85
     pp 20
     effectchance 20
@@ -7053,7 +7053,7 @@ movedata MOVE_ROCK_WRECKER, "Rock Wrecker"
 movedata MOVE_CROSS_POISON, "Cross Poison"
     battleeffect MOVE_EFFECT_HIGH_CRITICAL_POISON_HIT
     pss SPLIT_PHYSICAL
-    basepower 70
+    basepower 80
     type TYPE_POISON
     accuracy 100
     pp 20
@@ -7100,7 +7100,7 @@ movedata MOVE_IRON_HEAD, "Iron Head"
 
 movedata MOVE_MAGNET_BOMB, "Magnet Bomb"
     battleeffect MOVE_EFFECT_BYPASS_ACCURACY
-    pss SPLIT_PHYSICAL
+    pss SPLIT_SPECIAL
     basepower 60
     type TYPE_STEEL
     accuracy 0
@@ -7762,7 +7762,7 @@ movedata MOVE_FLAME_BURST, "Flame Burst"
     accuracy 100
     pp 15
     effectchance 100
-    target RANGE_SINGLE_TARGET
+    target RANGE_ALL_ADJACENT
     priority 0
     flags FLAG_PROTECT | FLAG_MIRROR_MOVE | FLAG_KINGS_ROCK
     appeal 0x00
