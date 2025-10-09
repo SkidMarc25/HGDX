@@ -79,7 +79,7 @@ movedata MOVE_COMET_PUNCH, "Comet Punch"
     pss SPLIT_PHYSICAL
     basepower 18
     type TYPE_NORMAL
-    accuracy 85
+    accuracy 90
     pp 15
     effectchance 0
     target RANGE_SINGLE_TARGET
@@ -317,7 +317,7 @@ movedata MOVE_WHIRLWIND, "Whirlwind"
 movedata MOVE_FLY, "Fly"
     battleeffect MOVE_EFFECT_FLY
     pss SPLIT_PHYSICAL
-    basepower 90
+    basepower 95
     type TYPE_FLYING
     accuracy 95
     pp 15
@@ -351,7 +351,7 @@ movedata MOVE_SLAM, "Slam"
     pss SPLIT_PHYSICAL
     basepower 80
     type TYPE_NORMAL
-    accuracy 75
+    accuracy 85
     pp 20
     effectchance 0
     target RANGE_SINGLE_TARGET
@@ -827,13 +827,13 @@ movedata MOVE_DISABLE, "Disable"
     movedescription MOVE_DISABLE, "For several turns,\nthis move prevents\nthe foe from using\nthe move it last\nused."
 
 movedata MOVE_ACID, "Acid"
-    battleeffect MOVE_EFFECT_LOWER_SP_DEF_HIT
+    battleeffect MOVE_EFFECT_LOWER_DEFENSE_HIT
     pss SPLIT_SPECIAL
     basepower 40
     type TYPE_POISON
     accuracy 100
     pp 30
-    effectchance 10
+    effectchance 50
     target RANGE_ADJACENT_OPPONENTS
     priority 0
     flags FLAG_MIRROR_MOVE | FLAG_PROTECT
@@ -993,14 +993,14 @@ movedata MOVE_BUBBLE_BEAM, "Bubble Beam"
     type TYPE_WATER
     accuracy 100
     pp 20
-    effectchance 80
+    effectchance 100
     target RANGE_SINGLE_TARGET
     priority 0
     flags FLAG_MIRROR_MOVE | FLAG_PROTECT
     appeal 0x02
     contesttype CONTEST_BEAUTY
     terminatedata
-    movedescription MOVE_BUBBLE_BEAM, "A spray of bubbles is\nforcefully ejected\nat the foe.\nIt may also lower the\ntarget’s Speed stat."
+    movedescription MOVE_BUBBLE_BEAM, "A spray of bubbles is\nforcefully ejected\nat the foe.\nIt will also lower the\ntarget’s Speed stat."
 
 movedata MOVE_AURORA_BEAM, "Aurora Beam"
     battleeffect MOVE_EFFECT_LOWER_ATTACK_HIT
