@@ -1305,7 +1305,7 @@ trainerdata 34, "Chuck"
         item ITEM_NONE
         move MOVE_KNOCK_OFF
         move MOVE_BULK_UP
-        move MOVE_HAMMER_ARM
+        move MOVE_DYNAMIC_PUNCH
         move MOVE_MEGA_PUNCH
         ability ABILITY_IRON_FIST
         ball ITEM_GREAT_BALL
@@ -1318,13 +1318,13 @@ trainerdata 34, "Chuck"
         ivs 50
         abilityslot 0
         level 34
-        pokemon SPECIES_MEDICHAM
+        pokemon SPECIES_GRAPPLOCT
         item ITEM_NONE
-        move MOVE_ZEN_HEADBUTT
+        move MOVE_TAUNT
+        move MOVE_BIND
+        move MOVE_DYNAMIC_PUNCH
         move MOVE_BULK_UP
-        move MOVE_FORCE_PALM
-        move MOVE_DETECT
-        ability ABILITY_PURE_POWER
+        ability ABILITY_LIMBER
         ball ITEM_GREAT_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
         setevs 80, 80, 80, 0, 0, 80
@@ -1337,8 +1337,8 @@ trainerdata 34, "Chuck"
         level 36
         pokemon SPECIES_POLIWRATH
         item ITEM_SITRUS_BERRY
-        move MOVE_BULK_UP
-        move MOVE_DRAIN_PUNCH
+        move MOVE_MIND_READER
+        move MOVE_DYNAMIC_PUNCH
         move MOVE_WATERFALL
         move MOVE_HYPNOSIS
         ability ABILITY_DAMP
@@ -15236,17 +15236,17 @@ trainerdata 418, "Bruno"
         ivs 50
         abilityslot 0
         level 57
-        pokemon SPECIES_GRAPPLOCT
-        item ITEM_NONE
-        move MOVE_LIQUIDATION
+        pokemon SPECIES_PINSIR
+        item ITEM_BLACK_BELT
         move MOVE_CLOSE_COMBAT
-        move MOVE_BULK_UP
-        move MOVE_SUCKER_PUNCH
-        ability ABILITY_TECHNICIAN
+        move MOVE_X_SCISSOR
+        move MOVE_SWORDS_DANCE
+        move MOVE_BRUTAL_SWING
+        ability ABILITY_MOLD_BREAKER
         ball ITEM_LEVEL_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 200, 252, 100, 0, 0, 0
-        nature NATURE_ADAMANT
+        setevs 100, 252, 0, 200, 0, 0
+        nature NATURE_JOLLIE
 		ballseal 0
 
         // mon 4
