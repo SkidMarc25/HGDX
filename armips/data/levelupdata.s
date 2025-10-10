@@ -2260,15 +2260,16 @@ levelup SPECIES_DITTO
 levelup SPECIES_EEVEE
     learnset MOVE_TACKLE, 1
     learnset MOVE_GROWL, 1
-    learnset MOVE_TAIL_WHIP, 5
+    learnset MOVE_TAIL_WHIP, 1
+    learnset MOVE_HELPING_HAND, 1
     learnset MOVE_QUICK_ATTACK, 10
     learnset MOVE_SWIFT, 15
     learnset MOVE_ENDURE, 20
     learnset MOVE_YAWN, 25
     learnset MOVE_DOUBLE_KICK, 30
     learnset MOVE_TAKE_DOWN, 35
-    learnset MOVE_HEAL_BELL, 40
-    learnset MOVE_CHARM, 45
+    learnset MOVE_CHARM, 40
+    learnset MOVE_HEAL_BELL, 45
     learnset MOVE_DOUBLE_EDGE, 50
     learnset MOVE_WISH, 55
     terminatelearnset
