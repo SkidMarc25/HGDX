@@ -68,8 +68,8 @@ Yellow Flute
 Red Flute
 Black Flute
 White Flute
-Shoal Salt
-Shoal Shell
+Prize Box  // Shoal Salt
+Gorgeos Box // Shoal Shell
 Red Shard
 Blue Shard
 Yellow Shard
@@ -242,7 +242,7 @@ Black Glasses
 Black Belt
 Magnet
 Mystic Water
-Sharp Beak
+Ace Wing  // Sharp Beak
 Poison Barb
 Never-Melt Ice
 Spell Tag
@@ -258,9 +258,9 @@ Lucky Punch
 Metal Powder
 Thick Club
 Leek
-Red Scarf
-Blue Scarf
-Pink Scarf
+Brick Piece  // Red Scarf
+Gold Leaf  // Blue Scarf
+Silver Leaf  // Pink Scarf
 Green Scarf
 Yellow Scarf
 Wide Lens
@@ -645,7 +645,7 @@ Galarica Cuff
 Galarica Twig
 Galarica Wreath
 HeavyDutyBoots
-Linking Cord
+Link Stone  // Linking Cord
 Moomoo Cheese
 Peat Block
 Room Service
@@ -747,8 +747,8 @@ N Solarizer
 N Lunarizer
 Box Link
 Zygarde Cube
-Sun Flute
-Moon Flute
+Origin Amber  // Sun Flute
+Crystal Apricorn  // Moon Flute
 Light Stone
 Dark Stone
 Iceroot Carrot
@@ -790,7 +790,7 @@ Hasty Mint
 Jolly Mint
 Naive Mint
 Serious Mint
-Fairy Feather
+Pink Bow  // Fairy Feather
 Syrupy Apple
 Mediocre Teacup
 Masterful Teacup
