@@ -68,8 +68,8 @@ Yellow Flutes
 Red Flutes
 Black Flutes
 White Flutes
-Shoal Salts
-Shoal Shells
+Prize Boxes
+Gorgeous Boxes
 Red Shards
 Blue Shards
 Yellow Shards
@@ -242,7 +242,7 @@ BlackGlasses
 Black Belts
 Magnets
 Mystic Waters
-Sharp Beaks
+Ace Wings
 Poison Barbs
 NeverMeltIces
 Spell Tags
@@ -258,9 +258,9 @@ Lucky Punches
 Metal Powders
 Thick Clubs
 Sticks
-Red Scarves
-Blue Scarves
-Pink Scarves
+Brick Pieces
+Gold Leaves
+Silver Leaves
 Green Scarves
 Yellow Scarves
 Wide Lenses
