@@ -5,30 +5,30 @@ a Lass
 a Camper
 a Picnicker
 a Bug Catcher
-an Aroma Lady
+a ₧₦ Trainer  // Aroma Lady to Lorelei
 the Twins
 a Hiker
 a Battle Girl
 a Fisherman
-a Cyclist
-a Cyclist
+a Cyclist  // Male
+a Cyclist  // Female
 a Black Belt
 an Artist
-a ₧₦ Breeder
-a ₧₦ Breeder
+a Bug Maniac // ₧₦ Breeder Male
+a Jr. Trainer  // ₧₦ Breeder Female to Female Jr Trainer
 a Cowgirl
 a Jogger
-a Pokéfan
-a Pokéfan
-a Poké Kid
-a rival
-an Ace Trainer
-an Ace Trainer
-a Waitress
-a Veteran
-a Ninja Boy
+a Pokéfan  // Male
+a Pokéfan  // Female
+a ₧₦ Trainer  // Poké Kid to Juan
+a ₧₦ Trainer  // Rival
+an Ace Trainer  // Male
+an Ace Trainer  // Female
+a Ninja Kid  // Waitress to Ninja Girl
+a Veteran  // Male
+a Ninja Kid  // Male
 a Dragon Tamer
-a Bird Keeper
+a Bird Keeper  // Female Bird Keeper
 a Juggler
 a Rich Boy
 a Lady
@@ -37,29 +37,29 @@ a Socialite
 a Beauty
 a Collector
 a Policeman
-a ₧₦ Ranger
-a ₧₦ Ranger
-a Scientist
-a Swimmer♂
-a Swimmer♀
-a Tuber
-a Tuber
+a Sightseer  // ₧₦ Ranger male to Sightseer
+a Veteran  // ₧₦ Ranger female to Female Veteran
+a Scientist // Not Evil One
+a Swimmer♂  // Male
+a Swimmer♀  // Female
+a Tourist  // Tuber Male to Tourist Male
+a Tourist  // Tuber Female to Tourist Female
 a Sailor
 a Kimono Girl
 a Ruin Maniac
-a Psychic
-a Psychic
-a PI
+a Psychic  // Male
+a Psychic  // Female
+a Gambler  // PI to Gambler
 a Guitarist
-an Ace Trainer
-an Ace Trainer
+an Ace Trainer  // Winter Male
+an Ace Trainer  // Winter Female
 a Team Rocket
 a Skier
 a Roughneck
-a Clown
+a Jr. Trainer  // Clown to Male Jr Trainer
 a Worker
-a School Kid
-a School Kid
+a School Kid  // Male
+a School Kid  // Female
 a Team Rocket
 a Burglar
 a Firebreather
@@ -67,7 +67,7 @@ a Biker
 a Leader
 a Leader
 a Poké Maniac
-a Bird Keeper
+a Bird Keeper  // Male
 a Leader
 a Rancher
 a Leader
@@ -78,8 +78,8 @@ a Leader
 a Teacher
 a Super Nerd
 a Sage
-a Parasol Lady
-a Waiter
+a Delinquent  // Parasol Lady
+a Punk  // Waiter
 a Medium
 a Cameraman
 a Reporter
@@ -111,16 +111,16 @@ a ₧₦ Trainer
 a Leader
 an Elder
 an Elite Four
-a Scientist
+a Scientist  // Evil one
 an Executive
 a Boarder
 an Executive
 an Executive
 an Executive
-a Passerby
+a ₧₦ Trainer  // Passerby to alt pose Rival
 a Mystery Man
-a Double Team
-a Young Couple
+the Double Team
+the Young Couple
 a ₧₦ Trainer
 a Rocket Boss
 a ₧₦ Trainer
