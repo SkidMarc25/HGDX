@@ -5,30 +5,30 @@ Lass
 Camper
 Picnicker
 Bug Catcher
-Aroma Lady
+₧₦ Trainer  // Aroma Lady to Lorelei
 Twins
 Hiker
 Battle Girl
 Fisherman
-Cyclist
-Cyclist
+Cyclist  // Male
+Cyclist  // Female
 Black Belt
 Artist
-₧₦ Breeder
-₧₦ Breeder
+Bug Maniac // ₧₦ Breeder Male
+Jr. Trainer  // ₧₦ Breeder Female to Female Jr Trainer
 Cowgirl
 Jogger
-Pokéfan
-Pokéfan
-Poké Kid
-Rival
-Ace Trainer
-Ace Trainer
-Waitress
-Veteran
-Ninja Boy
+Pokéfan  // Male
+Pokéfan  // Female
+₧₦ Trainer  // Poké Kid to Juan
+₧₦ Trainer  // Rival
+Ace Trainer  // Male
+Ace Trainer  // Female
+Ninja Kid  // Waitress to Ninja Girl
+Veteran  // Male
+Ninja Kid  // Male
 Dragon Tamer
-Bird Keeper
+Bird Keeper  // Female Bird Keeper
 Juggler
 Rich Boy
 Lady
@@ -37,29 +37,29 @@ Socialite
 Beauty
 Collector
 Policeman
-₧₦ Ranger
-₧₦ Ranger
-Scientist
-Swimmer♂
-Swimmer♀
-Tuber
-Tuber
+Sightseer  // ₧₦ Ranger male to Sightseer
+Veteran  // ₧₦ Ranger female to Female Veteran
+Scientist // Not Evil One
+Swimmer♂  // Male
+Swimmer♀  // Female
+Tourist  // Tuber Male to Tourist Male
+Tourist  // Tuber Female to Tourist Female
 Sailor
 Kimono Girl
 Ruin Maniac
-Psychic
-Psychic
-PI
+Psychic  // Male
+Psychic  // Female
+Gambler  // PI to Gambler
 Guitarist
-Ace Trainer
-Ace Trainer
+Ace Trainer  // Winter Male
+Ace Trainer  // Winter Female
 Team Rocket
 Skier
 Roughneck
-Clown
+Jr. Trainer  // Clown to Male Jr Trainer
 Worker
-School Kid
-School Kid
+School Kid  // Male
+School Kid  // Female
 Team Rocket
 Burglar
 Firebreather
@@ -67,7 +67,7 @@ Biker
 Leader
 Leader
 Poké Maniac
-Bird Keeper
+Bird Keeper  // Male
 Leader
 Rancher
 Leader
@@ -78,8 +78,8 @@ Leader
 Teacher
 Super Nerd
 Sage
-Parasol Lady
-Waiter
+Delinquent  // Parasol Lady
+Punk  // Waiter
 Medium
 Cameraman
 Reporter
@@ -111,13 +111,13 @@ Leader
 Leader
 Elder
 Elite Four
-Scientist
+Scientist  // Evil one
 Executive
 Boarder
 Executive
 Executive
 Executive
-Passerby
+₧₦ Trainer  // Passerby to alt pose Rival
 Mystery Man
 Double Team
 Young Couple
