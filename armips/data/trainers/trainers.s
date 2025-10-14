@@ -5306,7 +5306,7 @@ trainerdata 165, "Belle"
 trainerdata 166, "Frederick"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_TUBER_M
-    nummons 2
+    nummons 1
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -5319,15 +5319,8 @@ trainerdata 166, "Frederick"
         // mon 0
         ivs 0
         abilityslot 0
-        level 25
-        pokemon SPECIES_FARFETCHD
-        ballseal 0
-
-        // mon 1
-        ivs 0
-        abilityslot 0
-        level 25
-        pokemon SPECIES_FARFETCHD
+        level 26
+        monwithform SPECIES_FARFETCHD, 1 // Galarian Form
         ballseal 0
     endparty
 
@@ -5348,14 +5341,14 @@ trainerdata 167, "Kailani"
         ivs 0
         abilityslot 0
         level 24
-        pokemon SPECIES_VULPIX
+        monwithform SPECIES_MEOWTH, 1 // Alolan Form
         ballseal 0
 
         // mon 0
         ivs 0
         abilityslot 0
         level 24
-        pokemon SPECIES_VULPIX
+        monwithform SPECIES_VULPIX, 1 // Alolan Form
         ballseal 0
     endparty
 
