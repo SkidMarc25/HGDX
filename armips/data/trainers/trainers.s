@@ -1079,13 +1079,13 @@ trainerdata 31, "Morty"
         ivs 50
         abilityslot 0
         level 22
-        monwithform SPECIES_ORICORIO, 3 // Sensu Form
+        pokemon SPECIES_NOCTOWL
         item ITEM_NONE
-        move MOVE_OMINOUS_WIND
-        move MOVE_TEETER_DANCE
+        move MOVE_SHADOW_BALL
+        move MOVE_EXTRASENSORY
         move MOVE_FEATHER_DANCE
         move MOVE_AIR_CUTTER
-        ability ABILITY_DANCER
+        ability ABILITY_INSOMNIA
         ball ITEM_MOON_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
         setevs 40, 40, 40, 0, 40, 40
