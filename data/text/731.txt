@@ -38,7 +38,7 @@ a Beauty
 a Collector
 a Policeman
 a Sightseer  // ₧₦ Ranger male to Sightseer
-a Veteran  // ₧₦ Ranger female to Female Veteran
+a ₧₦ Ranger
 a Scientist // Not Evil One
 a Swimmer♂  // Male
 a Swimmer♀  // Female
@@ -81,8 +81,8 @@ a Sage
 a Delinquent  // Parasol Lady
 a Punk  // Waiter
 a Medium
-a Cameraman
-a Reporter
+the News Team
+a Veteran
 an Idol
 a Champion
 an Elite Four
