@@ -38,7 +38,7 @@ Beauty
 Collector
 Policeman
 Sightseer  // ₧₦ Ranger male to Sightseer
-Veteran  // ₧₦ Ranger female to Female Veteran
+₧₦ Ranger
 Scientist // Not Evil One
 Swimmer♂  // Male
 Swimmer♀  // Female
@@ -81,8 +81,8 @@ Sage
 Delinquent  // Parasol Lady
 Punk  // Waiter
 Medium
-Cameraman
-Reporter
+News Team
+Veteran
 Idol
 Champion
 Elite Four
