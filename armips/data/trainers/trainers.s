@@ -13901,7 +13901,7 @@ trainerdata 371, "Tucker"
 
 trainerdata 372, "Minty & Lou"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_REPORTER
+    trainerclass TRAINERCLASS_CAMERAMAN
     nummons 2
     item ITEM_NONE
     item ITEM_NONE
