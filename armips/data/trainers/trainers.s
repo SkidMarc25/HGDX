@@ -18999,8 +18999,8 @@ trainerdata 505, "Alan"
 
 trainerdata 506, "Mickey"
     trainermontype TRAINER_DATA_TYPE_MOVES
-    trainerclass TRAINERCLASS_SCHOOL_KID_M
-    nummons 4
+    trainerclass TRAINERCLASS_PKMN_RANGER_F
+    nummons 2
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -19013,45 +19013,23 @@ trainerdata 506, "Mickey"
         // mon 0
         ivs 0
         abilityslot 0
-        level 35
-        pokemon SPECIES_XATU
-        move MOVE_PECK
-        move MOVE_NIGHT_SHADE
-        move MOVE_SWIFT
-        move MOVE_FUTURE_SIGHT
+        level 34
+        pokemon SPECIES_WEEPINBELL
+        move MOVE_POISON_POWDER
+        move MOVE_VINE_WHIP
+        move MOVE_ACID
+        move MOVE_MEGA_DRAIN
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
         level 32
-        pokemon SPECIES_TANGELA
-        move MOVE_POISON_POWDER
-        move MOVE_VINE_WHIP
-        move MOVE_BIND
-        move MOVE_MEGA_DRAIN
-        ballseal 0
-
-        // mon 2
-        ivs 0
-        abilityslot 0
-        level 32
-        pokemon SPECIES_YANMA
-        move MOVE_QUICK_ATTACK
-        move MOVE_DOUBLE_TEAM
-        move MOVE_SONIC_BOOM
-        move MOVE_SUPERSONIC
-        ballseal 0
-
-        // mon 3
-        ivs 0
-        abilityslot 0
-        level 35
-        pokemon SPECIES_QUAGSIRE
-        move MOVE_TAIL_WHIP
-        move MOVE_SLAM
-        move MOVE_AMNESIA
-        move MOVE_EARTHQUAKE
+        pokemon SPECIES_SUDOWOODO
+        move MOVE_LOW_KICK
+        move MOVE_ROCK_TOMB
+        move MOVE_MIMIC
+        move MOVE_HARDEN
         ballseal 0
     endparty
 
@@ -19093,8 +19071,8 @@ trainerdata 507, "Chad"
 
 trainerdata 508, "Mickey"
     trainermontype TRAINER_DATA_TYPE_MOVES
-    trainerclass TRAINERCLASS_SCHOOL_KID_M
-    nummons 2
+    trainerclass TRAINERCLASS_PKMN_RANGER_F
+    nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -19108,22 +19086,33 @@ trainerdata 508, "Mickey"
         ivs 0
         abilityslot 0
         level 34
-        pokemon SPECIES_MR_MIME
-        move MOVE_PSYCHIC
-        move MOVE_LIGHT_SCREEN
-        move MOVE_REFLECT
-        move MOVE_ENCORE
+        pokemon SPECIES_TORKOAL
+        move MOVE_LAVA_PLUME
+        move MOVE_IRON_DEFENSE
+        move MOVE_SMOKESCREEN
+        move MOVE_BODY_SLAM
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
         level 38
-        pokemon SPECIES_MAGNETON
-        move MOVE_ZAP_CANNON
-        move MOVE_THUNDER_WAVE
-        move MOVE_LOCK_ON
-        move MOVE_SWIFT
+        pokemon SPECIES_EXEGGCUTE
+        move MOVE_SEED_BOMB
+        move MOVE_EXTRASENSORY
+        move MOVE_HYPNOSIS
+        move MOVE_EGG_BOMB
+        ballseal 0
+
+        // mon 2
+        ivs 0
+        abilityslot 0
+        level 38
+        pokemon SPECIES_PINSIR
+        move MOVE_BRICK_BREAK
+        move MOVE_BIND
+        move MOVE_BUG_BITE
+        move MOVE_HARDEN
         ballseal 0
     endparty
 
@@ -19191,7 +19180,7 @@ trainerdata 510, "Joey"
 trainerdata 511, "Mickey"
     trainermontype TRAINER_DATA_TYPE_MOVES
     trainerclass TRAINERCLASS_YOUNGSTER
-    nummons 1
+    nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -19204,11 +19193,33 @@ trainerdata 511, "Mickey"
         // mon 0
         ivs 0
         abilityslot 0
-        level 37
+        level 44
+        pokemon SPECIES_AMBIPOM
+        move MOVE_FAKE_OUT
+        move MOVE_AGILITY
+        move MOVE_TICKLE
+        move MOVE_DOUBLE_HIT
+        ballseal 0
+
+        // mon 0
+        ivs 0
+        abilityslot 0
+        level 45
         pokemon SPECIES_RATICATE
-        move MOVE_HYPER_BEAM
-        move MOVE_QUICK_ATTACK
         move MOVE_HYPER_FANG
+        move MOVE_SURF
+        move MOVE_SUPER_FANG
+        move MOVE_CRUNCH
+        ballseal 0
+
+        // mon 0
+        ivs 0
+        abilityslot 0
+        level 43
+        pokemon SPECIES_SKARMORY
+        move MOVE_FLY
+        move MOVE_METAL_CLAW
+        move MOVE_IRON_DEFENSE
         move MOVE_PURSUIT
         ballseal 0
     endparty
