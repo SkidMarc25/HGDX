@@ -11560,49 +11560,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 2, 2, 2, 2, 3, 3, 3, 3, 6, 4, 6, 4
+walklevels 32, 32, 32, 32, 33, 33, 33, 33, 36, 34, 36, 34
 
 // morning encounter slots
 pokemon SPECIES_PIDGEY
-pokemon SPECIES_RATTATA
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_RATTATA
+pokemon SPECIES_FLETCHLING
+pokemon SPECIES_BUDEW
+pokemon SPECIES_FLETCHLING
 pokemon SPECIES_SENTRET
 pokemon SPECIES_SENTRET
 pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_FLETCHLING
 pokemon SPECIES_FURRET
 pokemon SPECIES_PIDGEY
-pokemon SPECIES_FURRET
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // day encounter slots
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_RATTATA
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_FLETCHLING
 pokemon SPECIES_RATTATA
 pokemon SPECIES_SENTRET
-pokemon SPECIES_SENTRET
+pokemon SPECIES_FLETCHLING
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_FURRET
 pokemon SPECIES_PIDGEY
-pokemon SPECIES_FURRET
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // night encounter slots
 pokemon SPECIES_HOOTHOOT
 pokemon SPECIES_RATTATA
 pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_PURRLOIN
 pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_RATTATA
+pokemon SPECIES_RATICATE
+pokemon SPECIES_NOCTOWL
 pokemon SPECIES_HOOTHOOT
 pokemon SPECIES_RATTATA
 pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // hoenn encounter slots
 pokemon SPECIES_PLUSLE
@@ -11664,35 +11664,35 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 3, 3, 3, 3, 5, 5, 7, 8, 7, 10, 7, 4
+walklevels 33, 33, 33, 33, 35, 35, 37, 38, 37, 40, 37, 34
 
 // morning encounter slots
 pokemon SPECIES_CATERPIE
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_CATERPIE
+pokemon SPECIES_LEDYBA
+pokemon SPECIES_BUDEW
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_METAPOD
-pokemon SPECIES_METAPOD
+pokemon SPECIES_WEEDLE
 pokemon SPECIES_BUTTERFREE
-pokemon SPECIES_BUTTERFREE
+pokemon SPECIES_BEEDRILL
 pokemon SPECIES_PIDGEOTTO
-pokemon SPECIES_SPINARAK
-pokemon SPECIES_PIDGEOTTO
-pokemon SPECIES_CATERPIE
+pokemon SPECIES_LEDIAN
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // day encounter slots
 pokemon SPECIES_CATERPIE
 pokemon SPECIES_PIDGEY
-pokemon SPECIES_CATERPIE
+pokemon SPECIES_WEEDLE
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_METAPOD
-pokemon SPECIES_METAPOD
+pokemon SPECIES_KAKUNA
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_PIDGEOTTO
-pokemon SPECIES_PIDGEOTTO
-pokemon SPECIES_PIDGEOTTO
-pokemon SPECIES_CATERPIE
+pokemon SPECIES_PIDGEOT
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // night encounter slots
 pokemon SPECIES_HOOTHOOT
@@ -11705,8 +11705,8 @@ pokemon SPECIES_NOCTOWL
 pokemon SPECIES_NOCTOWL
 pokemon SPECIES_ARIADOS
 pokemon SPECIES_NOCTOWL
-pokemon SPECIES_ARIADOS
-pokemon SPECIES_SPINARAK
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // hoenn encounter slots
 pokemon SPECIES_PLUSLE
@@ -11768,49 +11768,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 5, 5, 5, 5, 8, 8, 6, 6, 10, 8, 10, 8
+walklevels 35, 35, 35, 35, 38, 38, 36, 36, 40, 38, 40, 38
 
 // morning encounter slots
 pokemon SPECIES_SPEAROW
-pokemon SPECIES_RATTATA
+pokemon SPECIES_BUDEW
 pokemon SPECIES_SPEAROW
 pokemon SPECIES_RATTATA
 pokemon SPECIES_SPEAROW
-pokemon SPECIES_SPEAROW
+pokemon SPECIES_BLIPBUG
+pokemon SPECIES_RIOLU
 pokemon SPECIES_JIGGLYPUFF
-pokemon SPECIES_JIGGLYPUFF
 pokemon SPECIES_RATTATA
 pokemon SPECIES_SPEAROW
-pokemon SPECIES_RATTATA
-pokemon SPECIES_SPEAROW
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // day encounter slots
 pokemon SPECIES_SPEAROW
-pokemon SPECIES_RATTATA
+pokemon SPECIES_NINCADA
 pokemon SPECIES_SPEAROW
-pokemon SPECIES_RATTATA
-pokemon SPECIES_SPEAROW
-pokemon SPECIES_SPEAROW
+pokemon SPECIES_HATENNA
+pokemon SPECIES_ROCKRUFF
+pokemon SPECIES_FEAROW
+pokemon SPECIES_BLIPBUG
 pokemon SPECIES_JIGGLYPUFF
-pokemon SPECIES_JIGGLYPUFF
 pokemon SPECIES_RATTATA
-pokemon SPECIES_SPEAROW
-pokemon SPECIES_RATTATA
-pokemon SPECIES_SPEAROW
+pokemon SPECIES_RIOLU
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // night encounter slots
-pokemon SPECIES_RATTATA
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_RATTATA
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_NICKIT
+pokemon SPECIES_BLIPBUG
+pokemon SPECIES_ROCKRUFF
+pokemon SPECIES_MUNNA
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 pokemon SPECIES_JIGGLYPUFF
 pokemon SPECIES_JIGGLYPUFF
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
+pokemon SPECIES_LIEPARD
+pokemon SPECIES_RATICATE
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // hoenn encounter slots
 pokemon SPECIES_PLUSLE
@@ -11872,49 +11872,49 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 5, 5, 5, 5, 8, 8, 6, 6, 10, 8, 10, 8
+walklevels 35, 35, 35, 35, 38, 38, 36, 36, 40, 38, 40, 38
 
 // morning encounter slots
+pokemon SPECIES_NATU
+pokemon SPECIES_SENTRET
 pokemon SPECIES_SPEAROW
 pokemon SPECIES_RATTATA
-pokemon SPECIES_SPEAROW
-pokemon SPECIES_RATTATA
-pokemon SPECIES_SPEAROW
-pokemon SPECIES_SPEAROW
+pokemon SPECIES_BUIZEL
+pokemon SPECIES_MARILL
 pokemon SPECIES_JIGGLYPUFF
-pokemon SPECIES_JIGGLYPUFF
+pokemon SPECIES_ROSELIA
 pokemon SPECIES_RATTATA
 pokemon SPECIES_SPEAROW
-pokemon SPECIES_RATTATA
-pokemon SPECIES_SPEAROW
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // day encounter slots
 pokemon SPECIES_SPEAROW
-pokemon SPECIES_RATTATA
+pokemon SPECIES_BUIZEL
 pokemon SPECIES_SPEAROW
 pokemon SPECIES_RATTATA
-pokemon SPECIES_SPEAROW
-pokemon SPECIES_SPEAROW
+pokemon SPECIES_ROSELIA
+pokemon SPECIES_MARILL
 pokemon SPECIES_JIGGLYPUFF
 pokemon SPECIES_JIGGLYPUFF
 pokemon SPECIES_RATTATA
 pokemon SPECIES_SPEAROW
-pokemon SPECIES_RATTATA
-pokemon SPECIES_SPEAROW
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // night encounter slots
-pokemon SPECIES_SPEAROW
+pokemon SPECIES_NICKIT
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_SPEAROW
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
+pokemon SPECIES_MARILL
+pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_JIGGLYPUFF
 pokemon SPECIES_JIGGLYPUFF
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // hoenn encounter slots
 pokemon SPECIES_WHISMUR
@@ -11925,11 +11925,11 @@ pokemon SPECIES_BUIZEL
 pokemon SPECIES_BIDOOF
 
 // surf encounters
-encounter SPECIES_GOLDEEN, 10, 10
-encounter SPECIES_GOLDEEN, 5, 5
-encounter SPECIES_SEAKING, 10, 10
-encounter SPECIES_SEAKING, 10, 10
-encounter SPECIES_SEAKING, 10, 10
+encounter SPECIES_GOLDEEN, 10, 50
+encounter SPECIES_GOOMY, 5, 35
+encounter SPECIES_SEAKING, 30, 50
+encounter SPECIES_POLIWHIRL, 20, 40
+encounter SPECIES_LOMBRE, 20, 40
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -11976,49 +11976,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 13, 13, 13, 13, 14, 14, 15, 15, 12, 14, 12, 14
+walklevels 33, 33, 33, 33, 34, 34, 35, 35, 32, 34, 32, 34
 
 // morning encounter slots
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_BUDEW
 pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_NATU
 pokemon SPECIES_BELLSPROUT
+pokemon SPECIES_ROSELIA
 pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_GROWLITHE
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_ABRA
 pokemon SPECIES_ABRA
-pokemon SPECIES_ABRA
-pokemon SPECIES_ABRA
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // day encounter slots
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_SKIPLOOM
 pokemon SPECIES_BELLSPROUT
+pokemon SPECIES_MAREEP
+pokemon SPECIES_SKIDDO
+pokemon SPECIES_FOMANTIS
+pokemon SPECIES_GROWLITHE
 pokemon SPECIES_PIDGEY
-pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_ROSELIA
 pokemon SPECIES_ABRA
 pokemon SPECIES_ABRA
-pokemon SPECIES_ABRA
-pokemon SPECIES_ABRA
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // night encounter slots
+pokemon SPECIES_NICKIT
 pokemon SPECIES_ODDISH
-pokemon SPECIES_ODDISH
-pokemon SPECIES_ODDISH
-pokemon SPECIES_ODDISH
-pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_BELLSPROUT
+pokemon SPECIES_MEOWTH
+pokemon SPECIES_FOMANTIS
+pokemon SPECIES_HOUNDOUR
+pokemon SPECIES_PURRLOIN
 pokemon SPECIES_GLOOM
 pokemon SPECIES_GLOOM
 pokemon SPECIES_ABRA
 pokemon SPECIES_ABRA
-pokemon SPECIES_ABRA
-pokemon SPECIES_ABRA
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // hoenn encounter slots
 pokemon SPECIES_PLUSLE
@@ -12080,49 +12080,49 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 13, 13, 13, 13, 14, 14, 15, 15, 12, 14, 12, 14
+walklevels 33, 33, 33, 33, 34, 34, 35, 35, 32, 34, 32, 34
 
 // morning encounter slots
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_BELLSPROUT
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_GOOMY
+pokemon SPECIES_POLIWAG
+pokemon SPECIES_YANMA
 pokemon SPECIES_MAGNEMITE
-pokemon SPECIES_MAGNEMITE
 pokemon SPECIES_ABRA
 pokemon SPECIES_ABRA
-pokemon SPECIES_ABRA
-pokemon SPECIES_ABRA
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // day encounter slots
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_BELLSPROUT
+pokemon SPECIES_BUIZEL
+pokemon SPECIES_FOMANTIS
 pokemon SPECIES_PIDGEY
-pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_GOOMY
+pokemon SPECIES_YANMA
 pokemon SPECIES_MAGNEMITE
-pokemon SPECIES_MAGNEMITE
 pokemon SPECIES_ABRA
 pokemon SPECIES_ABRA
-pokemon SPECIES_ABRA
-pokemon SPECIES_ABRA
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // night encounter slots
+pokemon SPECIES_WOOPER
+pokemon SPECIES_POLIWAG
 pokemon SPECIES_ODDISH
 pokemon SPECIES_ODDISH
-pokemon SPECIES_ODDISH
-pokemon SPECIES_ODDISH
+pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_BELLSPROUT
+pokemon SPECIES_GOOMY
 pokemon SPECIES_MAGNEMITE
-pokemon SPECIES_MAGNEMITE
+pokemon SPECIES_YANMA
 pokemon SPECIES_ABRA
-pokemon SPECIES_ABRA
-pokemon SPECIES_ABRA
-pokemon SPECIES_ABRA
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // hoenn encounter slots
 pokemon SPECIES_WHISMUR
@@ -12133,11 +12133,11 @@ pokemon SPECIES_BUIZEL
 pokemon SPECIES_BIDOOF
 
 // surf encounters
-encounter SPECIES_PSYDUCK, 10, 10
-encounter SPECIES_PSYDUCK, 5, 5
-encounter SPECIES_GOLDUCK, 10, 10
-encounter SPECIES_GOLDUCK, 10, 10
-encounter SPECIES_GOLDUCK, 10, 10
+encounter SPECIES_PSYDUCK, 10, 50
+encounter SPECIES_GOOMY, 15, 50
+encounter SPECIES_GOLDUCK, 10, 50
+encounter SPECIES_LOMBRE, 20, 40
+encounter SPECIES_GOLDUCK, 10, 40
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -12184,49 +12184,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 17, 17, 17, 17, 18, 18, 19, 19, 19, 15, 19, 15
+walklevels 37, 37, 37, 37, 38, 38, 39, 39, 39, 35, 39, 35
 
 // morning encounter slots
-pokemon SPECIES_RATTATA
+pokemon SPECIES_FOMANTIS
+pokemon SPECIES_NATU
+pokemon SPECIES_ROSELIA
 pokemon SPECIES_SPEAROW
-pokemon SPECIES_RATTATA
-pokemon SPECIES_SPEAROW
-pokemon SPECIES_GROWLITHE
+pokemon SPECIES_TRUBBISH
 pokemon SPECIES_GROWLITHE
 pokemon SPECIES_RATICATE
 pokemon SPECIES_RATICATE
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
+pokemon SPECIES_BUDEW
+pokemon SPECIES_GARBODOR
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // day encounter slots
-pokemon SPECIES_RATTATA
+pokemon SPECIES_NYMBLE
 pokemon SPECIES_SPEAROW
-pokemon SPECIES_RATTATA
-pokemon SPECIES_SPEAROW
+pokemon SPECIES_ROSELIA
+pokemon SPECIES_FOMANTIS
 pokemon SPECIES_GROWLITHE
-pokemon SPECIES_GROWLITHE
+pokemon SPECIES_TRIBBISH
 pokemon SPECIES_RATICATE
 pokemon SPECIES_RATICATE
 pokemon SPECIES_RATTATA
-pokemon SPECIES_GROWLITHE
-pokemon SPECIES_RATTATA
-pokemon SPECIES_GROWLITHE
+pokemon SPECIES_GARBODOR
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // night encounter slots
-pokemon SPECIES_RATTATA
+pokemon SPECIES_NICKIT
 pokemon SPECIES_MURKROW
-pokemon SPECIES_RATTATA
+pokemon SPECIES_TRUBBISH
 pokemon SPECIES_MURKROW
-pokemon SPECIES_GROWLITHE
-pokemon SPECIES_GROWLITHE
-pokemon SPECIES_RATICATE
+pokemon SPECIES_HOUNDOUR
+pokemon SPECIES_MEOWTH
+pokemon SPECIES_GARBODOR
 pokemon SPECIES_RATICATE
 pokemon SPECIES_MURKROW
 pokemon SPECIES_HOUNDOUR
-pokemon SPECIES_MURKROW
-pokemon SPECIES_HOUNDOUR
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // hoenn encounter slots
 pokemon SPECIES_PLUSLE
@@ -12301,8 +12301,8 @@ pokemon SPECIES_GROWLITHE
 pokemon SPECIES_GROWLITHE
 pokemon SPECIES_PIDGEOTTO
 pokemon SPECIES_KADABRA
-pokemon SPECIES_PIDGEOTTO
-pokemon SPECIES_KADABRA
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // day encounter slots
 pokemon SPECIES_PIDGEOTTO
@@ -12315,8 +12315,8 @@ pokemon SPECIES_GROWLITHE
 pokemon SPECIES_GROWLITHE
 pokemon SPECIES_PIDGEOTTO
 pokemon SPECIES_KADABRA
-pokemon SPECIES_PIDGEOTTO
-pokemon SPECIES_KADABRA
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // night encounter slots
 pokemon SPECIES_NOCTOWL
@@ -12329,8 +12329,8 @@ pokemon SPECIES_NOCTOWL
 pokemon SPECIES_NOCTOWL
 pokemon SPECIES_GROWLITHE
 pokemon SPECIES_KADABRA
-pokemon SPECIES_GROWLITHE
-pokemon SPECIES_KADABRA
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // hoenn encounter slots
 pokemon SPECIES_PLUSLE
@@ -12405,8 +12405,8 @@ pokemon SPECIES_RATICATE
 pokemon SPECIES_RATICATE
 pokemon SPECIES_FEAROW
 pokemon SPECIES_PRIMEAPE
-pokemon SPECIES_FEAROW
-pokemon SPECIES_PRIMEAPE
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // day encounter slots
 pokemon SPECIES_MANKEY
@@ -12419,8 +12419,8 @@ pokemon SPECIES_RATICATE
 pokemon SPECIES_RATICATE
 pokemon SPECIES_FEAROW
 pokemon SPECIES_PRIMEAPE
-pokemon SPECIES_FEAROW
-pokemon SPECIES_PRIMEAPE
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // night encounter slots
 pokemon SPECIES_MANKEY
@@ -12433,8 +12433,8 @@ pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATICATE
 pokemon SPECIES_PRIMEAPE
-pokemon SPECIES_RATICATE
-pokemon SPECIES_PRIMEAPE
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // hoenn encounter slots
 pokemon SPECIES_WHISMUR
@@ -12509,8 +12509,8 @@ pokemon SPECIES_FEAROW
 pokemon SPECIES_FEAROW
 pokemon SPECIES_RATICATE
 pokemon SPECIES_ELECTABUZZ
-pokemon SPECIES_RATICATE
-pokemon SPECIES_ELECTABUZZ
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // day encounter slots
 pokemon SPECIES_SPEAROW
@@ -12523,8 +12523,8 @@ pokemon SPECIES_FEAROW
 pokemon SPECIES_FEAROW
 pokemon SPECIES_ELECTABUZZ
 pokemon SPECIES_ELECTABUZZ
-pokemon SPECIES_ELECTABUZZ
-pokemon SPECIES_ELECTABUZZ
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // night encounter slots
 pokemon SPECIES_QUAGSIRE
@@ -12537,8 +12537,8 @@ pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_RATICATE
 pokemon SPECIES_ELECTABUZZ
-pokemon SPECIES_RATICATE
-pokemon SPECIES_ELECTABUZZ
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // hoenn encounter slots
 pokemon SPECIES_WHISMUR
@@ -12613,8 +12613,8 @@ pokemon SPECIES_DROWZEE
 pokemon SPECIES_DROWZEE
 pokemon SPECIES_HYPNO
 pokemon SPECIES_HYPNO
-pokemon SPECIES_HYPNO
-pokemon SPECIES_HYPNO
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // day encounter slots
 pokemon SPECIES_DROWZEE
@@ -12627,8 +12627,8 @@ pokemon SPECIES_DROWZEE
 pokemon SPECIES_DROWZEE
 pokemon SPECIES_HYPNO
 pokemon SPECIES_HYPNO
-pokemon SPECIES_HYPNO
-pokemon SPECIES_HYPNO
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // night encounter slots
 pokemon SPECIES_DROWZEE
@@ -12641,8 +12641,8 @@ pokemon SPECIES_DROWZEE
 pokemon SPECIES_DROWZEE
 pokemon SPECIES_HYPNO
 pokemon SPECIES_HYPNO
-pokemon SPECIES_HYPNO
-pokemon SPECIES_HYPNO
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // hoenn encounter slots
 pokemon SPECIES_PLUSLE
@@ -12716,8 +12716,8 @@ pokemon SPECIES_PIDGEOTTO
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_HOPPIP
-pokemon SPECIES_HOPPIP
-pokemon SPECIES_HOPPIP
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 pokemon SPECIES_CHANSEY
 
 // day encounter slots
@@ -12730,8 +12730,8 @@ pokemon SPECIES_PIDGEOTTO
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_HOPPIP
-pokemon SPECIES_HOPPIP
-pokemon SPECIES_HOPPIP
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 pokemon SPECIES_CHANSEY
 
 // night encounter slots
@@ -12744,8 +12744,8 @@ pokemon SPECIES_NOCTOWL
 pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_QUAGSIRE
-pokemon SPECIES_QUAGSIRE
-pokemon SPECIES_QUAGSIRE
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 pokemon SPECIES_CHANSEY
 
 // hoenn encounter slots
@@ -12820,8 +12820,8 @@ pokemon SPECIES_PIDGEOTTO
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_SKIPLOOM
-pokemon SPECIES_SKIPLOOM
-pokemon SPECIES_SKIPLOOM
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 pokemon SPECIES_CHANSEY
 
 // day encounter slots
@@ -12834,8 +12834,8 @@ pokemon SPECIES_PIDGEOTTO
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_SKIPLOOM
-pokemon SPECIES_SKIPLOOM
-pokemon SPECIES_SKIPLOOM
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 pokemon SPECIES_CHANSEY
 
 // night encounter slots
@@ -12848,8 +12848,8 @@ pokemon SPECIES_NOCTOWL
 pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_QUAGSIRE
-pokemon SPECIES_QUAGSIRE
-pokemon SPECIES_QUAGSIRE
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 pokemon SPECIES_CHANSEY
 
 // hoenn encounter slots
@@ -12924,8 +12924,8 @@ pokemon SPECIES_PIDGEOTTO
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_HOPPIP
-pokemon SPECIES_HOPPIP
-pokemon SPECIES_HOPPIP
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 pokemon SPECIES_CHANSEY
 
 // day encounter slots
@@ -12938,8 +12938,8 @@ pokemon SPECIES_PIDGEOTTO
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_HOPPIP
-pokemon SPECIES_HOPPIP
-pokemon SPECIES_HOPPIP
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 pokemon SPECIES_CHANSEY
 
 // night encounter slots
@@ -12952,8 +12952,8 @@ pokemon SPECIES_NOCTOWL
 pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_QUAGSIRE
-pokemon SPECIES_QUAGSIRE
-pokemon SPECIES_QUAGSIRE
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 pokemon SPECIES_CHANSEY
 
 // hoenn encounter slots
@@ -13029,8 +13029,8 @@ pokemon SPECIES_FEAROW
 pokemon SPECIES_FEAROW
 pokemon SPECIES_SLUGMA
 pokemon SPECIES_MUK
-pokemon SPECIES_SLUGMA
-pokemon SPECIES_MUK
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // day encounter slots
 pokemon SPECIES_GRIMER
@@ -13043,8 +13043,8 @@ pokemon SPECIES_FEAROW
 pokemon SPECIES_FEAROW
 pokemon SPECIES_SLUGMA
 pokemon SPECIES_MUK
-pokemon SPECIES_SLUGMA
-pokemon SPECIES_MUK
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // night encounter slots
 pokemon SPECIES_GRIMER
@@ -13057,8 +13057,8 @@ pokemon SPECIES_MURKROW
 pokemon SPECIES_MURKROW
 pokemon SPECIES_SLUGMA
 pokemon SPECIES_MUK
-pokemon SPECIES_SLUGMA
-pokemon SPECIES_MUK
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // hoenn encounter slots
 pokemon SPECIES_PLUSLE
@@ -13133,8 +13133,8 @@ pokemon SPECIES_FEAROW
 pokemon SPECIES_FEAROW
 pokemon SPECIES_SLUGMA
 pokemon SPECIES_MUK
-pokemon SPECIES_SLUGMA
-pokemon SPECIES_MUK
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // day encounter slots
 pokemon SPECIES_FEAROW
@@ -13147,8 +13147,8 @@ pokemon SPECIES_FEAROW
 pokemon SPECIES_FEAROW
 pokemon SPECIES_SLUGMA
 pokemon SPECIES_MUK
-pokemon SPECIES_SLUGMA
-pokemon SPECIES_MUK
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // night encounter slots
 pokemon SPECIES_GRIMER
@@ -13161,8 +13161,8 @@ pokemon SPECIES_MUK
 pokemon SPECIES_MUK
 pokemon SPECIES_SLUGMA
 pokemon SPECIES_MUK
-pokemon SPECIES_SLUGMA
-pokemon SPECIES_MUK
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // hoenn encounter slots
 pokemon SPECIES_PLUSLE
@@ -13237,8 +13237,8 @@ pokemon SPECIES_FEAROW
 pokemon SPECIES_FEAROW
 pokemon SPECIES_SLUGMA
 pokemon SPECIES_MUK
-pokemon SPECIES_SLUGMA
-pokemon SPECIES_MUK
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // day encounter slots
 pokemon SPECIES_GRIMER
@@ -13251,8 +13251,8 @@ pokemon SPECIES_FEAROW
 pokemon SPECIES_FEAROW
 pokemon SPECIES_SLUGMA
 pokemon SPECIES_MUK
-pokemon SPECIES_SLUGMA
-pokemon SPECIES_MUK
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // night encounter slots
 pokemon SPECIES_GRIMER
@@ -13265,8 +13265,8 @@ pokemon SPECIES_MUK
 pokemon SPECIES_MUK
 pokemon SPECIES_SLUGMA
 pokemon SPECIES_MUK
-pokemon SPECIES_SLUGMA
-pokemon SPECIES_MUK
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // hoenn encounter slots
 pokemon SPECIES_PLUSLE
@@ -13341,8 +13341,8 @@ pokemon SPECIES_TANGELA
 pokemon SPECIES_TANGELA
 pokemon SPECIES_TANGELA
 pokemon SPECIES_MR_MIME
-pokemon SPECIES_TANGELA
-pokemon SPECIES_MR_MIME
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // day encounter slots
 pokemon SPECIES_TANGELA
@@ -13355,8 +13355,8 @@ pokemon SPECIES_TANGELA
 pokemon SPECIES_TANGELA
 pokemon SPECIES_MR_MIME
 pokemon SPECIES_MR_MIME
-pokemon SPECIES_MR_MIME
-pokemon SPECIES_MR_MIME
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // night encounter slots
 pokemon SPECIES_TANGELA
@@ -13369,8 +13369,8 @@ pokemon SPECIES_TANGELA
 pokemon SPECIES_TANGELA
 pokemon SPECIES_TANGELA
 pokemon SPECIES_MR_MIME
-pokemon SPECIES_TANGELA
-pokemon SPECIES_MR_MIME
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // hoenn encounter slots
 pokemon SPECIES_WHISMUR
@@ -13445,8 +13445,8 @@ pokemon SPECIES_DODUO
 pokemon SPECIES_DODUO
 pokemon SPECIES_PONYTA
 pokemon SPECIES_FEAROW
-pokemon SPECIES_PONYTA
-pokemon SPECIES_FEAROW
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // day encounter slots
 pokemon SPECIES_RATTATA
@@ -13459,8 +13459,8 @@ pokemon SPECIES_DODUO
 pokemon SPECIES_DODUO
 pokemon SPECIES_PONYTA
 pokemon SPECIES_FEAROW
-pokemon SPECIES_PONYTA
-pokemon SPECIES_FEAROW
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // night encounter slots
 pokemon SPECIES_RATTATA
@@ -13473,8 +13473,8 @@ pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 pokemon SPECIES_PONYTA
 pokemon SPECIES_RATTATA
-pokemon SPECIES_PONYTA
-pokemon SPECIES_RATTATA
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // hoenn encounter slots
 pokemon SPECIES_WHISMUR
@@ -13549,8 +13549,8 @@ pokemon SPECIES_WEEPINBELL
 pokemon SPECIES_WEEPINBELL
 pokemon SPECIES_VENONAT
 pokemon SPECIES_WEEPINBELL
-pokemon SPECIES_VENONAT
-pokemon SPECIES_WEEPINBELL
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // day encounter slots
 pokemon SPECIES_BELLSPROUT
@@ -13563,8 +13563,8 @@ pokemon SPECIES_WEEPINBELL
 pokemon SPECIES_WEEPINBELL
 pokemon SPECIES_BELLSPROUT
 pokemon SPECIES_WEEPINBELL
-pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_WEEPINBELL
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // night encounter slots
 pokemon SPECIES_VENONAT
@@ -13577,8 +13577,8 @@ pokemon SPECIES_WEEPINBELL
 pokemon SPECIES_WEEPINBELL
 pokemon SPECIES_BELLSPROUT
 pokemon SPECIES_VENOMOTH
-pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_VENOMOTH
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // hoenn encounter slots
 pokemon SPECIES_WHISMUR
@@ -13653,8 +13653,8 @@ pokemon SPECIES_ABRA
 pokemon SPECIES_ABRA
 pokemon SPECIES_PIDGEOTTO
 pokemon SPECIES_WEEPINBELL
-pokemon SPECIES_PIDGEOTTO
-pokemon SPECIES_WEEPINBELL
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // day encounter slots
 pokemon SPECIES_PIDGEY
@@ -13667,8 +13667,8 @@ pokemon SPECIES_ABRA
 pokemon SPECIES_ABRA
 pokemon SPECIES_PIDGEOTTO
 pokemon SPECIES_WEEPINBELL
-pokemon SPECIES_PIDGEOTTO
-pokemon SPECIES_WEEPINBELL
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // night encounter slots
 pokemon SPECIES_VENONAT
@@ -13681,8 +13681,8 @@ pokemon SPECIES_ABRA
 pokemon SPECIES_ABRA
 pokemon SPECIES_WEEPINBELL
 pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_WEEPINBELL
-pokemon SPECIES_BELLSPROUT
+pokemon SPECIES_AUDINO
+pokemon SPECIES_AUDINO
 
 // hoenn encounter slots
 pokemon SPECIES_WHISMUR
