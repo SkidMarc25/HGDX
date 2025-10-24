@@ -10066,23 +10066,23 @@ encounter SPECIES_NONE, 0, 0
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_BARBOACH, 10, 10
 encounter SPECIES_POLIWAG, 10, 10
-encounter SPECIES_POLIWAG, 10, 10
+encounter SPECIES_LOTAD, 10, 10
 
 // good rod encounters
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_POLIWAG, 20, 20
-encounter SPECIES_POLIWAG, 20, 20
+encounter SPECIES_BARBOACH, 20, 20
+encounter SPECIES_CORPHISH, 20, 20
+encounter SPECIES_LOTAD, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_LOMBRE, 40, 40
+encounter SPECIES_BARBOACH, 40, 40
+encounter SPECIES_WHISCASH, 40, 40
+encounter SPECIES_CRAWDAUNT, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -11595,7 +11595,7 @@ pokemon SPECIES_HOOTHOOT
 pokemon SPECIES_RATTATA
 pokemon SPECIES_HOOTHOOT
 pokemon SPECIES_PURRLOIN
-pokemon SPECIES_RATTATA
+pokemon SPECIES_JIGGLYPUFF
 pokemon SPECIES_RATICATE
 pokemon SPECIES_NOCTOWL
 pokemon SPECIES_HOOTHOOT
