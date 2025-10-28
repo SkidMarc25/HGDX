@@ -9638,10 +9638,10 @@ pokemon SPECIES_NONE
 
 // surf encounters
 encounter SPECIES_TENTACOOL, 25, 25
-encounter SPECIES_QUAGSIRE, 25, 25
+encounter SPECIES_WAILMER, 25, 25
 encounter SPECIES_TENTACRUEL, 25, 25
 encounter SPECIES_TENTACRUEL, 25, 25
-encounter SPECIES_TENTACRUEL, 25, 25
+encounter SPECIES_WAILORD, 25, 25
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -9649,8 +9649,8 @@ encounter SPECIES_NONE, 0, 0
 
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_FINNEON, 10, 10
+encounter SPECIES_FRILLISH, 10, 10
 encounter SPECIES_TENTACOOL, 10, 10
 encounter SPECIES_TENTACOOL, 10, 10
 
@@ -9741,10 +9741,10 @@ pokemon SPECIES_NONE
 pokemon SPECIES_NONE
 
 // surf encounters
-encounter SPECIES_TENTACOOL, 35, 35
+encounter SPECIES_WAILMER, 35, 35
 encounter SPECIES_TENTACOOL, 30, 30
 encounter SPECIES_TENTACRUEL, 35, 35
-encounter SPECIES_TENTACRUEL, 35, 35
+encounter SPECIES_WAILORD, 35, 35
 encounter SPECIES_TENTACRUEL, 35, 35
 
 // rock smash encounters
@@ -9845,10 +9845,10 @@ pokemon SPECIES_NONE
 pokemon SPECIES_NONE
 
 // surf encounters
-encounter SPECIES_TENTACOOL, 35, 35
+encounter SPECIES_WAILMER, 35, 35
 encounter SPECIES_TENTACOOL, 30, 30
 encounter SPECIES_TENTACRUEL, 35, 35
-encounter SPECIES_TENTACRUEL, 35, 35
+encounter SPECIES_WAILORD, 35, 35
 encounter SPECIES_TENTACRUEL, 35, 35
 
 // rock smash encounters
@@ -10066,23 +10066,23 @@ encounter SPECIES_NONE, 0, 0
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_BARBOACH, 10, 10
+encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_POLIWAG, 10, 10
-encounter SPECIES_LOTAD, 10, 10
+encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
-encounter SPECIES_BARBOACH, 20, 20
-encounter SPECIES_CORPHISH, 20, 20
-encounter SPECIES_LOTAD, 20, 20
+encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_POLIWAG, 20, 20
+encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 
 // super rod encounters
-encounter SPECIES_POLIWHIRL, 40, 40
-encounter SPECIES_LOMBRE, 40, 40
-encounter SPECIES_BARBOACH, 40, 40
-encounter SPECIES_WHISCASH, 40, 40
-encounter SPECIES_CRAWDAUNT, 40, 40
+encounter SPECIES_POLIWAG, 40, 40
+encounter SPECIES_POLIWAG, 40, 40
+encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWAG, 40, 40
+encounter SPECIES_MAGIKARP, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -11040,16 +11040,16 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 6, 8, 6, 8, 8, 8, 12, 12, 10, 8, 10, 8
+walklevels 36, 38, 36, 38, 38, 38, 32, 32, 40, 38, 40, 38
 
 // morning encounter slots
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
-pokemon SPECIES_SANDSHREW
-pokemon SPECIES_SANDSHREW
-pokemon SPECIES_PARAS
+pokemon SPECIES_SOLROCK
+pokemon SPECIES_MUNNA
+pokemon SPECIES_LUNATONE
 pokemon SPECIES_PARAS
 pokemon SPECIES_SANDSLASH
 pokemon SPECIES_CLEFAIRY
@@ -11060,9 +11060,9 @@ pokemon SPECIES_CLEFAIRY
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_GEODUDE
+pokemon SPECIES_SOLROCK
 pokemon SPECIES_SANDSHREW
-pokemon SPECIES_SANDSHREW
+pokemon SPECIES_ELGYEM
 pokemon SPECIES_PARAS
 pokemon SPECIES_PARAS
 pokemon SPECIES_SANDSLASH
@@ -11074,9 +11074,9 @@ pokemon SPECIES_CLEFAIRY
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_SANDSHREW
-pokemon SPECIES_SANDSHREW
+pokemon SPECIES_LUNATONE
+pokemon SPECIES_MUNNA
+pokemon SPECIES_ELGYEM
 pokemon SPECIES_PARAS
 pokemon SPECIES_PARAS
 pokemon SPECIES_SANDSLASH
@@ -11144,16 +11144,16 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 6, 8, 6, 8, 8, 8, 12, 12, 10, 8, 10, 8
+walklevels 36, 38, 36, 38, 38, 38, 32, 32, 40, 38, 40, 38
 
 // morning encounter slots
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
-pokemon SPECIES_SANDSHREW
-pokemon SPECIES_SANDSHREW
-pokemon SPECIES_PARAS
+pokemon SPECIES_SOLROCK
+pokemon SPECIES_MUNNA
+pokemon SPECIES_LUNATONE
 pokemon SPECIES_PARAS
 pokemon SPECIES_SANDSLASH
 pokemon SPECIES_CLEFAIRY
@@ -11164,9 +11164,9 @@ pokemon SPECIES_CLEFAIRY
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_GEODUDE
+pokemon SPECIES_SOLROCK
 pokemon SPECIES_SANDSHREW
-pokemon SPECIES_SANDSHREW
+pokemon SPECIES_ELGYEM
 pokemon SPECIES_PARAS
 pokemon SPECIES_PARAS
 pokemon SPECIES_SANDSLASH
@@ -11178,9 +11178,9 @@ pokemon SPECIES_CLEFAIRY
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_SANDSHREW
-pokemon SPECIES_SANDSHREW
+pokemon SPECIES_LUNATONE
+pokemon SPECIES_MUNNA
+pokemon SPECIES_ELGYEM
 pokemon SPECIES_PARAS
 pokemon SPECIES_PARAS
 pokemon SPECIES_SANDSLASH
@@ -13381,9 +13381,9 @@ pokemon SPECIES_BUIZEL
 pokemon SPECIES_BIDOOF
 
 // surf encounters
-encounter SPECIES_TENTACOOL, 35, 35
+encounter SPECIES_WAILMER, 35, 35
 encounter SPECIES_TENTACOOL, 30, 30
-encounter SPECIES_TENTACRUEL, 35, 35
+encounter SPECIES_WAILORD, 35, 35
 encounter SPECIES_TENTACRUEL, 35, 35
 encounter SPECIES_TENTACRUEL, 35, 35
 
